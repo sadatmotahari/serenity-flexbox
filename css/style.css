@@ -536,14 +536,11 @@ max-width: 60%;
   .container-content{
     padding: 0 15px;
   }
-} 
-@media screen and (max-width:700px){
-
-    .header .top-header .menu{
+  .header .top-header .menu{
     display: none;
     }
     .mobile-menu{
         display: block;
     }
-  
-}
+} 
+
